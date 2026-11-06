@@ -8,3 +8,4 @@ I wanted to use spatial data to investigate the impact of the 1985 eruption of N
 - Background map: OpenStreetView
 - Tools: QGIS
 - # Results
+![Population and modelled ash thickness data for towns and cities surrounding Nevado del Ruiz](table.png)
